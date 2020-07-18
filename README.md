@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikeyanpa12" alt="karthikeyanpa12" /> </p>
 
-- 👯 I’m looking to collaborate on **ReactJs**
+- 👯 I’m looking to collaborate on **ReactJs** development
 
 - 📫 How to reach me **karthikeyan.pa@gmail.com**
 
