@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthikeyan</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikeyanpa12" alt="karthikeyanpa12" /> </p>
 
 - 👯 I’m looking to collaborate on **ReactJs** development
