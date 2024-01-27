@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karthikeyan</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikeyanpa12" alt="karthikeyanpa12" /> </p>
 
-- 👯 I’m looking to collaborate on **ReactJs** development
+- 👯 I’m looking to collaborate development
 
 - 📫 How to reach me **karthikeyan.pa@gmail.com**
  
