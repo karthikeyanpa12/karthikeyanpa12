@@ -1,15 +1,10 @@
-<h1 align="center">Hi 👋, I'm Karthikeyan</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Karthikeyan</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikeyanpa12" alt="karthikeyanpa12" /> </p>
 
 - 👯 I’m looking to collaborate on **ReactJs** development
 
 - 📫 How to reach me **karthikeyan.pa@gmail.com**
-
-<ul align="left">
-  <li alt="react" width="20" height="20"> React</li>
-  <li alt="nodeJs" width="20" height="20">NodeJS</li>
-</li>
+ 
 
 </br>
 <a href="https://twitter.com/@keyan12" target="blank">Twitter</a>
